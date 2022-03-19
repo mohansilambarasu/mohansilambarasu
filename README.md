@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mohan Silambarasu E
+- 👀 Solution-driven Individual with a creative mind and a keen interest in the field of Web Development. 
+- 💞️ Seeking Full time / Internship opportunities
