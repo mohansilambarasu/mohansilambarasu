@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohan Silambarasu E
 - 👀 Solution-driven Individual with a creative mind and a keen interest in the field of Web Development. 
 - Full Time Frontend Developer!
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,gitlab&perline=3)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,gitlab,vscode)](https://skillicons.dev)
