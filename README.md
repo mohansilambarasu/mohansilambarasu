@@ -14,8 +14,6 @@ I build production-level AI-powered products. Frontend engineer at heart with a 
 |---|---|---|
 | [CompKraftUI](https://github.com/mohansilambarasu/craftui) | AI-powered React component generator. Describe a UI in plain English, get React + Tailwind code with live preview | React, TypeScript, Groq, Node.js, SSE, Three.js |
 | [StudyAI](https://github.com/mohansilambarasu/ai-study-assistant) | RAG pipeline — upload PDFs and chat with your document in real time | LangChain, Pinecone, FastAPI, React, TypeScript |
-| [SupportAI](https://github.com/mohansilambarasu/ai-support-agent) | Three-agent LLM pipeline for customer support with human-in-the-loop approval | Multi-Agent, Groq, Node.js, React |
-| [Supplier Monitor](https://github.com/mohansilambarasu/supplier-quality-agent) | Text-to-SQL LLM agent for manufacturing supplier quality analytics | Text-to-SQL, FastAPI, Streamlit, Python |
 | [MedPortal](https://github.com/mohansilambarasu/zealthy-app) | Full-stack healthcare management system with admin EMR and patient portal | React, TypeScript, Node.js, MongoDB, JWT |
 
 ---
