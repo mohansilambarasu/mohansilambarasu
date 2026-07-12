@@ -1,6 +1,6 @@
 # Hi, I'm Mohan 👋
 
-**Frontend and AI Engineer** · New York, U.S. · F1 OPT Available July 2026
+**AI SOFTWARE ENGINEER** · New York, U.S. · F1 OPT Available July 2026
 
 I build production-level AI-powered products. Frontend engineer at heart with a deep focus on LLM integration, prompt engineering, and shipping tools that actually work in production.
 
@@ -12,9 +12,10 @@ I build production-level AI-powered products. Frontend engineer at heart with a 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [SupportAI](https://github.com/mohansilambarasu/ai-support-agent) | Three-agent LLM pipeline for customer support with human-in-the-loop approval | Multi-Agent, Groq, Node.js, React |
+| [StudyAI](https://github.com/mohansilambarasu/ai-study-assistant) | RAG-powered document assistant that lets users upload PDFs and get cited, hallucination-free answers grounded in source content | React, TypeScript, FastAPI, LangChain, Pinecone, Groq LLM |
+| [Menu Admin SDK](https://github.com/mohansilambarasu/menu-admin-sdk) | Production-grade embeddable JavaScript SDK with Shadow DOM isolation, typed public API, and dual ESM/UMD builds — published to npm | TypeScript, React, Shadow DOM, Vite |
 | [CompKraftUI](https://github.com/mohansilambarasu/craftui) | AI-powered React component generator. Describe a UI in plain English, get React + Tailwind code with live preview | React, TypeScript, Groq, Node.js, SSE, Three.js |
-| [MedPortal](https://github.com/mohansilambarasu/zealthy-app) | Full-stack healthcare management system with admin EMR and patient portal | React, TypeScript, Node.js, MongoDB, JWT |
-
 ---
 
 ## 🛠 What I work with
