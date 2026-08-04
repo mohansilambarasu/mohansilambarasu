@@ -1,10 +1,10 @@
 # Hi, I'm Mohan 👋
 
-**AI SOFTWARE ENGINEER** · New York, U.S. · F1 OPT Available July 2026
+**SOFTWARE ENGINEER** · Frontend · AI Engineering · Data Analytics · New York, U.S. · F-1 OPT, Available Now
 
-I build production-level AI-powered products. Frontend engineer at heart with a deep focus on LLM integration, prompt engineering, and shipping tools that actually work in production.
+I build production-level software across the stack — from responsive frontend interfaces to AI-powered systems to data pipelines that actually ship. 3+ years in the software industry, with a Master's-driven specialization in applying AI and data engineering to real products.
 
-🎓 MS Applied Information Technology · George Mason University · **GPA 4.0** · **Academic Excellence Award 2026**
+🎓 MS Applied Information Technology · George Mason University · **GPA 4.0** · **Academic Excellence Award**
 
 ---
 
@@ -12,23 +12,31 @@ I build production-level AI-powered products. Frontend engineer at heart with a 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Menu Admin SDK](https://github.com/mohansilambarasu/menu-admin-sdk) | Production-grade embeddable JavaScript SDK with Shadow DOM isolation, typed public API, and dual ESM/UMD builds — published to npm | TypeScript, React, Shadow DOM, Vite |
-| [CompKraftUI](https://github.com/mohansilambarasu/craftui) | AI-powered React component generator. Describe a UI in plain English, get React + Tailwind code with live preview | React, TypeScript, Groq, Node.js, SSE, Three.js |
+| [CraftUI](https://github.com/mohansilambarasu/craftui) | AI-powered React component generator — describe a UI in plain English, get real React + Tailwind code streaming live to a sandboxed preview | React, TypeScript, Groq, Node.js, SSE, Three.js |
+| [StudyAI](https://github.com/mohansilambarasu/ai-study-assistant) | Production RAG system — upload a PDF, ask questions, get grounded answers with exact source-page citations | Python, FastAPI, LangChain, Pinecone, HuggingFace, Groq |
+| [SupportAI](https://github.com/mohansilambarasu/ai-support-agent) | Multi-agent customer support system — three chained LLM agents (triage, research, response) with human-in-the-loop approval | React, TypeScript, Node.js, Express, Groq |
+| [Supplier Quality Monitor Agent](https://github.com/mohansilambarasu/supplier-quality-agent) | Text-to-SQL LLM agent over a real ETL pipeline, with a live Streamlit dashboard | Python, FastAPI, SQLite, Groq, Streamlit |
+| [Menu Admin SDK](https://www.npmjs.com/package/@mohansilambu/menu-admin) | Production-grade embeddable JavaScript SDK with Shadow DOM isolation, typed public API, and dual ESM/UMD builds — published to npm | TypeScript, Shadow DOM, Vite |
+
 ---
 
 ## 🛠 What I work with
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,express,python,fastapi,git,github,vscode,figma,mongodb,postgres,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,express,python,fastapi,threejs,git,github,vscode,figma,mongodb,postgres,mysql,aws,vite,r,java)](https://skillicons.dev)
 
-**AI and LLM** · Prompt Engineering · LLM Integration · Groq API · LangChain · Pinecone · RAG · Agentic AI · Streaming Pipelines · SSE
+**AI & LLM Engineering** · RAG · Multi-Agent Systems · Prompt Engineering · LangChain · Pinecone · Groq API · Streaming Pipelines (SSE) · Agentic AI
 
-**Tools** · GitHub Copilot · Cursor · Vercel · Render · GitLab CI/CD · Postman
+**Data & ML** · Python · SQL · PySpark · scikit-learn · PyTorch · TensorFlow · ETL Pipeline Design · AWS (EC2, S3, RDS, SageMaker)
+
+**Frontend & Full-Stack** · React · TypeScript · Node.js/Express · REST APIs · Component-Based Architecture
+
+**Tools** · GitHub Copilot · Cursor · GitLab CI/CD · Postman · Jupyter
 
 ---
 
 ## 🤝 Let's connect
 
-I'm actively looking for **full-time or internship roles** in frontend, AI engineering, or software engineering where I can build real products using AI with precision and speed.
+Actively looking for **full-time or internship roles** in AI Engineering, Frontend/Full-Stack, or Data Engineering — I'm most excited by problems that need all three.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mohansilambarasu.github.io/my-portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-silambarasu-elangkumaran)
