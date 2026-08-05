@@ -1,6 +1,6 @@
 # Hi, I'm Mohan 👋
 
-**SOFTWARE ENGINEER** · Frontend · AI Engineering · Data Analytics · New York, U.S. · F-1 OPT, Available Now
+**SOFTWARE ENGINEER** · Frontend · AI Engineering · New York, U.S. · F-1 OPT, **Available Immediately!**
 
 I build production-level software across the stack — from responsive frontend interfaces to AI-powered systems to data pipelines that actually ship. 3+ years in the software industry, with a Master's-driven specialization in applying AI and data engineering to real products.
 
@@ -13,9 +13,6 @@ I build production-level software across the stack — from responsive frontend 
 | Project | What it does | Stack |
 |---|---|---|
 | [CraftUI](https://github.com/mohansilambarasu/craftui) | AI-powered React component generator — describe a UI in plain English, get real React + Tailwind code streaming live to a sandboxed preview | React, TypeScript, Groq, Node.js, SSE, Three.js |
-| [StudyAI](https://github.com/mohansilambarasu/ai-study-assistant) | Production RAG system — upload a PDF, ask questions, get grounded answers with exact source-page citations | Python, FastAPI, LangChain, Pinecone, HuggingFace, Groq |
-| [SupportAI](https://github.com/mohansilambarasu/ai-support-agent) | Multi-agent customer support system — three chained LLM agents (triage, research, response) with human-in-the-loop approval | React, TypeScript, Node.js, Express, Groq |
-| [Supplier Quality Monitor Agent](https://github.com/mohansilambarasu/supplier-quality-agent) | Text-to-SQL LLM agent over a real ETL pipeline, with a live Streamlit dashboard | Python, FastAPI, SQLite, Groq, Streamlit |
 | [Menu Admin SDK](https://www.npmjs.com/package/@mohansilambu/menu-admin) | Production-grade embeddable JavaScript SDK with Shadow DOM isolation, typed public API, and dual ESM/UMD builds — published to npm | TypeScript, Shadow DOM, Vite |
 
 ---
