@@ -1,14 +1,14 @@
 # Hi, I'm Mohan 👋
 
-**SOFTWARE ENGINEER** · Frontend · AI Engineering · New York, U.S. · F-1 OPT, **Available Immediately!**
+**DATA ENGINEER · AI ENGINEERING** · New York, U.S. · F-1 OPT, **Available Immediately!**
 
-I build production-level software across the stack — from responsive frontend interfaces to AI-powered systems to data pipelines that actually ship. 3+ years in the software industry, with a Master's-driven specialization in applying AI and data engineering to real products.
+I build software systems around **AI, data, and backend engineering** — from multi-agent workflows and LLM-powered applications to cloud data pipelines and large-scale distributed processing.
 
 🎓 MS Applied Information Technology · George Mason University · **GPA 4.0** · **Academic Excellence Award**
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -30,15 +30,28 @@ I build production-level software across the stack — from responsive frontend 
 **Tools** · GitHub Copilot · Cursor · GitLab CI/CD · Postman · Jupyter
 
 ---
+## 💼 Industry Experience
 
-## 🤝 Let's connect
+### Software Engineering
 
-Actively looking for **full-time or internship roles** in AI Engineering, Frontend/Full-Stack, or Data Engineering — I'm most excited by problems that need all three.
+Built and shipped production applications, reusable frontend systems, REST API integrations, real-time dashboards, testing workflows, and CI/CD pipelines.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mohansilambarasu.github.io/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-silambarasu-elangkumaran)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melangku@gmu.edu)
+### Data Strategy & Engineering
+
+Worked with Python and SQL on production data validation, automation, data quality, and pipelines supporting enterprise analytics across **200+ brands in 180+ countries**.
+
+### AI / ML Research
+
+Currently developing Python-based AI/ML prototypes, data pipelines, and evaluation workflows for educational systems.
 
 ---
 
-*Always building. Always learning.*
+## 🤝 Let's connect
+
+Actively looking for **Full-time roles** in **AI · Data Engineering** , I'm really excited to build something that solves a business problem!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mohansilambarasu.github.io/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-silambarasu-elangkumaran)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansilambarasu@gmail.com)
+
+---
