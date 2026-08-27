@@ -2,7 +2,7 @@
 
 **DATA ENGINEER · AI ENGINEERING** · New York, U.S. · F-1 OPT, **Available Immediately!**
 
-I build software systems around **AI, data, and backend engineering** — from multi-agent workflows and LLM-powered applications to cloud data pipelines and large-scale distributed processing.
+I build data driven software systems integrated with AI, from multi-agent workflows and LLM-powered applications to cloud deployed data pipelines and large-scale distributed processing.
 
 🎓 MS Applied Information Technology · George Mason University · **GPA 4.0** · **Academic Excellence Award**
 
