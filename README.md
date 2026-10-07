@@ -1,88 +1,70 @@
-# Hi, I'm Mohan 👋
+# Mohan Silambarasu Elangkumaran
 
-**Software Engineer · Frontend Engineering & Data Systems**
+### Software Engineer — Frontend Engineering & Data Systems
 
-I’m a Software Engineer with 3+ years of experience building production frontend applications, real-time data-driven interfaces, and analytics workflows.
+Software Engineer with 3+ years of professional experience across production frontend applications and data-driven systems.
 
-My professional experience spans **React and JavaScript frontend engineering**, REST and WebSocket integrations, and **Python and SQL data workflows**.
+My work has included building real-time React interfaces, integrating REST APIs and WebSockets, developing reusable and accessible frontend components, and using Python and SQL for data transformation, validation, and analytics workflows.
 
-I'm currently expanding into **RAG, LLMs, Agentic AI, and AI-assisted software systems** through research and hands-on experimentation.
-
-📍 New York City Metro  
-🎓 M.S. Information Technology — George Mason University  
-🏆 4.0 GPA · Academic Excellence Award 2026  
-💼 F-1 OPT · Open to full-time opportunities and relocation
+I’m currently extending that foundation into AI-assisted software systems, with hands-on work around RAG, retrieval, LLM evaluation, and agentic workflows.
 
 ---
 
-## Selected Work
+## Selected Engineering Work
 
-### [Menu Admin SDK](https://github.com/mohansilambarasu/menu-admin-sdk)
-Embeddable TypeScript menu-management SDK designed for integration into external websites.
-
-- Shadow DOM style isolation
-- Typed public API
-- Framework-independent TypeScript store
-- UMD and ESM builds
-- React UI binding
-- Vite packaging
-
-**Tech:** TypeScript · React · Shadow DOM · Vite
+| Project | Highlights | Technologies |
+|---|---|---|
+| [**Menu Admin SDK**](https://github.com/mohansilambarasu/menu-admin-sdk) | Embeddable frontend SDK with Shadow DOM style isolation, a typed public API, framework-independent state management, lifecycle controls, and separate ESM/UMD builds | TypeScript, React, Shadow DOM, Vite |
+| [**Healthcare Quote Form**](https://github.com/mohansilambarasu/healthcare-quote-form) | Multi-step React application built from Figma with reusable form components, validation, shared state, route-based navigation, review workflows, and manual QA | React, JavaScript, React Hook Form, Context API, React Router |
+| [**NLP Research Assistant**](https://github.com/mohansilambarasu/nlp-research-assistant) | Evaluation-driven RAG research project exploring dense retrieval, reranking, citation provenance, retrieval benchmarking, and failure-aware system behavior | Python, LangChain, Qdrant, BGE, Jina AI, Groq |
+| [**Portfolio**](https://github.com/mohansilambarasu/my-portfolio) | Personal engineering portfolio presenting professional frontend work, data systems experience, academic research, and selected technical projects | React, JavaScript, Vite, Framer Motion |
 
 ---
 
-### [Healthcare Quote Form](https://github.com/mohansilambarasu/healthcare-quote-form)
-Responsive multi-step React application built from Figma with reusable components, validation, routing, shared form state, review workflows, and manual QA.
+## Professional Focus
 
-**Tech:** React · JavaScript · React Hook Form · Context API · React Router · Vite
+### Frontend Engineering
+Production React and JavaScript applications, real-time interfaces, REST and WebSocket integrations, reusable component architecture, accessibility, testing, and performance optimization.
 
----
+### Data Engineering & Analytics
+Python and SQL workflows for transformation, validation, KPI analysis, data-quality investigation, automation, and recurring analytics delivery.
 
-### [NLP Research Assistant](https://github.com/mohansilambarasu/nlp-research-assistant)
-Evaluation-driven RAG research project over foundational NLP papers, focused on retrieval quality, reranking, citation provenance, and failure-aware system design.
-
-**Tech:** Python · LangChain · Qdrant · BGE Embeddings · Jina AI · Groq
-
----
-
-### [Portfolio](https://github.com/mohansilambarasu/my-portfolio)
-My software engineering portfolio covering production frontend experience, data engineering and analytics work, research, and selected projects.
-
-**Tech:** React · JavaScript · Vite · Framer Motion
+### AI Systems — Current Exploration
+RAG, vector retrieval, reranking, LLM evaluation, grounded generation, and agentic workflows through research and hands-on experimentation.
 
 ---
 
-## Core Stack
+## Technical Stack
 
-**Frontend Engineering**  
-React.js · JavaScript · TypeScript · Redux · Context API · REST APIs · WebSockets · SCSS · AEM · Jest · Accessibility
+**Frontend**  
+React.js · JavaScript · TypeScript · Redux · Context API · HTML5 · CSS3 · SCSS · REST APIs · WebSockets · AEM · Jest
 
-**Data Engineering & Analytics**  
-Python · SQL · pandas · PySpark · Databricks · Apache Spark · Data Transformation · Data Validation · Data Modeling
+**Data & Analytics**  
+Python · SQL · pandas · PySpark · Databricks · Apache Spark · Data Modeling · Data Validation · Data Quality
 
 **Cloud & Databases**  
 AWS · MySQL · MongoDB · SQL Server · Oracle SQL
 
-**Currently Exploring**  
-RAG · LLMs · Agentic AI · Vector Databases · LLM Evaluation · Retrieval
+**AI / ML**  
+RAG · LLMs · Vector Databases · Retrieval · Reranking · LLM Evaluation · Agentic AI
+
+**Engineering Tools**  
+Git · GitHub · GitLab · Azure DevOps · Vite · Webpack · Chrome DevTools · Figma
 
 ---
 
-## Professional Background
+## Education
 
-**Frontend Engineering**  
-Built production React applications, real-time dashboards, configurable alert workflows, reusable frontend systems, and accessible public-facing experiences.
-
-**Data Strategy & Engineering**  
-Used Python and SQL for recurring data transformations, KPI validation, discrepancy analysis, workflow automation, and production reporting support.
-
-**Current Research**  
-Exploring AI-assisted database-design workflows, retrieval-augmented generation, and grounded LLM systems.
+**M.S. Information Technology**  
+George Mason University · Data Analytics and Intelligence Methods  
+**GPA: 4.0 / 4.0 · Academic Excellence Award, 2026**
 
 ---
 
-## Let's Connect
+## Connect
 
 [Portfolio](https://mohansilambarasu.github.io/my-portfolio/) ·
 [LinkedIn](https://linkedin.com/in/mohan-silambarasu-elangkumaran) ·
 [Email](mailto:mohansilambarasu@gmail.com)
+
+Open to Software Engineering opportunities across **Frontend Engineering and Data Systems**.
