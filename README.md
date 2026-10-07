@@ -1,57 +1,88 @@
 # Hi, I'm Mohan 👋
 
-**DATA ENGINEER · AI ENGINEERING** · New York, U.S. · F-1 OPT, **Available Immediately!**
+**Software Engineer · Frontend Engineering & Data Systems**
 
-I build data driven software systems integrated with AI, from multi-agent workflows and LLM-powered applications to cloud deployed data pipelines and large-scale distributed processing.
+I’m a Software Engineer with 3+ years of experience building production frontend applications, real-time data-driven interfaces, and analytics workflows.
 
-🎓 MS Applied Information Technology · George Mason University · **GPA 4.0** · **Academic Excellence Award**
+My professional experience spans **React and JavaScript frontend engineering**, REST and WebSocket integrations, and **Python and SQL data workflows**.
 
----
+I'm currently expanding into **RAG, LLMs, Agentic AI, and AI-assisted software systems** through research and hands-on experimentation.
 
-## What I'm building
-
-| Project | What it does | Stack |
-|---|---|---|
-| [CraftUI](https://github.com/mohansilambarasu/craftui) | AI-powered React component generator — describe a UI in plain English, get real React + Tailwind code streaming live to a sandboxed preview | React, TypeScript, Groq, Node.js, SSE, Three.js |
-| [Menu Admin SDK](https://www.npmjs.com/package/@mohansilambu/menu-admin) | Production-grade embeddable JavaScript SDK with Shadow DOM isolation, typed public API, and dual ESM/UMD builds — published to npm | TypeScript, Shadow DOM, Vite |
+📍 New York City Metro  
+🎓 M.S. Information Technology — George Mason University  
+🏆 4.0 GPA · Academic Excellence Award 2026  
+💼 F-1 OPT · Open to full-time opportunities and relocation
 
 ---
 
-## 🛠 What I work with
+## Selected Work
 
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,express,python,fastapi,threejs,git,github,vscode,figma,mongodb,postgres,mysql,aws,vite,r,java)](https://skillicons.dev)
+### [Menu Admin SDK](https://github.com/mohansilambarasu/menu-admin-sdk)
+Embeddable TypeScript menu-management SDK designed for integration into external websites.
 
-**AI & LLM Engineering** · RAG · Multi-Agent Systems · Prompt Engineering · LangChain · Pinecone · Groq API · Streaming Pipelines (SSE) · Agentic AI
+- Shadow DOM style isolation
+- Typed public API
+- Framework-independent TypeScript store
+- UMD and ESM builds
+- React UI binding
+- Vite packaging
 
-**Data & ML** · Python · SQL · PySpark · scikit-learn · PyTorch · TensorFlow · ETL Pipeline Design · AWS (EC2, S3, RDS, SageMaker)
-
-**Frontend & Full-Stack** · React · TypeScript · Node.js/Express · REST APIs · Component-Based Architecture
-
-**Tools** · GitHub Copilot · Cursor · GitLab CI/CD · Postman · Jupyter
-
----
-## 💼 Industry Experience
-
-### Software Engineering
-
-Built and shipped production applications, reusable frontend systems, REST API integrations, real-time dashboards, testing workflows, and CI/CD pipelines.
-
-### Data Strategy & Engineering
-
-Worked with Python and SQL on production data validation, automation, data quality, and pipelines supporting enterprise analytics across **200+ brands in 180+ countries**.
-
-### AI / ML Research
-
-Currently developing Python-based AI/ML prototypes, data pipelines, and evaluation workflows for educational systems.
+**Tech:** TypeScript · React · Shadow DOM · Vite
 
 ---
 
-## 🤝 Let's connect
+### [Healthcare Quote Form](https://github.com/mohansilambarasu/healthcare-quote-form)
+Responsive multi-step React application built from Figma with reusable components, validation, routing, shared form state, review workflows, and manual QA.
 
-Actively looking for **Full-time roles** in **AI · Data Engineering** , I'm really excited to build something that solves a business problem!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mohansilambarasu.github.io/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohan-silambarasu-elangkumaran)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansilambarasu@gmail.com)
+**Tech:** React · JavaScript · React Hook Form · Context API · React Router · Vite
 
 ---
+
+### [NLP Research Assistant](https://github.com/mohansilambarasu/nlp-research-assistant)
+Evaluation-driven RAG research project over foundational NLP papers, focused on retrieval quality, reranking, citation provenance, and failure-aware system design.
+
+**Tech:** Python · LangChain · Qdrant · BGE Embeddings · Jina AI · Groq
+
+---
+
+### [Portfolio](https://github.com/mohansilambarasu/my-portfolio)
+My software engineering portfolio covering production frontend experience, data engineering and analytics work, research, and selected projects.
+
+**Tech:** React · JavaScript · Vite · Framer Motion
+
+---
+
+## Core Stack
+
+**Frontend Engineering**  
+React.js · JavaScript · TypeScript · Redux · Context API · REST APIs · WebSockets · SCSS · AEM · Jest · Accessibility
+
+**Data Engineering & Analytics**  
+Python · SQL · pandas · PySpark · Databricks · Apache Spark · Data Transformation · Data Validation · Data Modeling
+
+**Cloud & Databases**  
+AWS · MySQL · MongoDB · SQL Server · Oracle SQL
+
+**Currently Exploring**  
+RAG · LLMs · Agentic AI · Vector Databases · LLM Evaluation · Retrieval
+
+---
+
+## Professional Background
+
+**Frontend Engineering**  
+Built production React applications, real-time dashboards, configurable alert workflows, reusable frontend systems, and accessible public-facing experiences.
+
+**Data Strategy & Engineering**  
+Used Python and SQL for recurring data transformations, KPI validation, discrepancy analysis, workflow automation, and production reporting support.
+
+**Current Research**  
+Exploring AI-assisted database-design workflows, retrieval-augmented generation, and grounded LLM systems.
+
+---
+
+## Let's Connect
+
+[Portfolio](https://mohansilambarasu.github.io/my-portfolio/) ·
+[LinkedIn](https://linkedin.com/in/mohan-silambarasu-elangkumaran) ·
+[Email](mailto:mohansilambarasu@gmail.com)
